@@ -8,7 +8,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PackageRequirementsSettings">
-    <option name="requirementsPath" value="C:\Users\j.delizy\Documents\Personnel-Privé\OFX-bp-fix\req_list.txt" />
+    <option name="requirementsPath" value="req_list.txt" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="myDocStringFormat" value="Epytext" />
